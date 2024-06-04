@@ -1,6 +1,7 @@
 # AI-Screen
 AI-Powered Human-Computer Interaction
 
+## RK3588
 
 # Contacts
 
