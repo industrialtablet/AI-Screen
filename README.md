@@ -12,9 +12,9 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
 > This repository contains a curated list of useful resources for AI Screens products from [HYY ↗](https://www.we-signage.com).
 
 ## Contents
-- [Meet the AI Screen Team](#Meet the AI Screen Team)
-- [AI Screen Products](#AI Screen Products)
-- [AI Screen Projects](#AI Screen Projects)
+- [Meet the AI Screen Team](#meet-the-ai-screen-team)
+- [AI Screen Products](#ai-screen-products)
+- [AI Screen Projects](#ai-screen-projects)
 
 ## Meet the AI Screen Team
 
