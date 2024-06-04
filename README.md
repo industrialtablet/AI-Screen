@@ -1,6 +1,8 @@
 <p>
 <img alt="AI-Screen" src="https://img.shields.io/github/discussions/industrialtablet/AI-Screen?color=162453&style=flat-square&label=AI-Screen&logo=github"/>
-</p>
+<img alt="AI-Screen" src="https://img.shields.io/badge/GitHub-AI%20Screen-5674dd.svg?style=flat?style=flat-square&logo=GitHub">
+<img at = "AI-Screen" src="https://img.shields.io/badge/Google-AI%20Screen-4c86ea.svg?style=flat?style=flat-square&logo=Android">
+</p> 
 
 # AI-Powered Human-Computer Interaction
 
