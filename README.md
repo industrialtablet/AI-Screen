@@ -1,3 +1,5 @@
+# [HYY AI-Screen](http://www.we-signage.com/)
+
 <p>
 <img alt="AI-Screen" src="https://img.shields.io/github/discussions/industrialtablet/AI-Screen?color=162453&style=flat-square&label=AI-Screen&logo=github"/>
 <img alt="AI-Screen" src="https://img.shields.io/badge/GitHub-AI%20Screen-5674dd.svg?style=flat?style=flat-square&logo=GitHub">
@@ -12,9 +14,14 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
 > This repository contains a curated list of useful resources for AI Screens products from [HYY ↗](https://www.we-signage.com).
 
 ## Contents
-- [Meet the AI Screen Team](#meet-the-ai-screen-team)
-- [AI Screen Products](#ai-screen-products)
-- [AI Screen Projects](#ai-screen-projects)
+- [HYY AI-Screen](#hyy-ai-screen)
+- [AI-Powered Human-Computer Interaction](#ai-powered-human-computer-interaction)
+  - [Introduction](#introduction)
+  - [Contents](#contents)
+  - [Meet the AI Screen Team](#meet-the-ai-screen-team)
+  - [AI Screen Products](#ai-screen-products)
+  - [AI Screen Projects](#ai-screen-projects)
+  - [Contacts](#contacts)
 
 ## Meet the AI Screen Team
 
