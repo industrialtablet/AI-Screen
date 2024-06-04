@@ -15,6 +15,7 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
 
 ## Contents
 - [HYY AI-Screen](#hyy-ai-screen)
+  -> [Bar Screen](./Documents/Products/bar-screen/README.md)
 - [AI-Powered Human-Computer Interaction](#ai-powered-human-computer-interaction)
   - [Introduction](#introduction)
   - [Contents](#contents)
