@@ -1,5 +1,7 @@
 # AI-Screen
 AI-Powered Human-Computer Interaction
+# Introduction
+Welcome to the future of intelligent interaction with our cutting-edge Smart Screen, featuring state-of-the-art AI-powered human-computer interaction capabilities. Designed to seamlessly integrate into your daily life, these devices leverages advanced artificial intelligence to provide an intuitive, responsive, and personalized user experience.
 
 
 # Contacts
