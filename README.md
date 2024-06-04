@@ -11,6 +11,17 @@
 Welcome to the future of intelligent interaction with our cutting-edge Smart Screen designed by [HYY ↗](https://www.we-signage.com), featuring state-of-the-art AI-powered human-computer interaction capabilities. Designed to seamlessly integrate into your daily life, these devices leverages advanced artificial intelligence to provide an intuitive, responsive, and personalized user experience.
 > This repository contains a curated list of useful resources for AI Screens products from [HYY ↗](https://www.we-signage.com).
 
+## Contents
+- [Meet the AI Screen Team](#Meet the AI Screen Team)
+- [AI Screen Products](#AI Screen Products)
+- [AI Screen Projects](#AI Screen Projects)
+
+## Meet the AI Screen Team
+
+## AI Screen Products
+
+## AI Screen Projects
+
 ## Contacts
 
 - Website: www.we-signage.com
