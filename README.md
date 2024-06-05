@@ -3,14 +3,12 @@
   <a href="http://www.we-signage.com">
   <img src="./Documents/img/AI_Screen.png" height="150" />
   </a>
-
-  <a href="http://www.we-signage.com">www.we-signage.com</a>
 </p>
 
 
 
 <p>
-<img alt="AI-Screen" src="https://img.shields.io/github/discussions/industrialtablet/AI-Screen?color=162453&style=flat-square&label=AI-Screen&logo=github"/>
+<img alt="AI-Screen" src="https://img.shields.io/github/stars/industrialtablet/AI-Screen?style=social&label=Star&maxAge=2592000"/>
 <img alt="AI-Screen" src="https://img.shields.io/badge/GitHub-AI%20Screen-5674dd.svg?style=flat?style=flat-square&logo=GitHub">
 <img at = "AI-Screen" src="https://img.shields.io/badge/Google-AI%20Screen-4c86ea.svg?style=flat?style=flat-square&logo=Android">
 </p> 
