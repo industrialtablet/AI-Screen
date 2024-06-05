@@ -26,7 +26,7 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
 > [HYY AI-Screen](#hyy-ai-screen)
 
 
-<table>
+<table align="center">
   <tr>
     <th>Products</th>
     <th>Link</th>
@@ -35,7 +35,12 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
   <tr>
     <td>Bar Screen</td>
     <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/bar-screen">Bar Screen</a></td>
-    <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/bar-screen"><img src="./Documents/Products/bar-screen/img/img_bar_1.jpg" alt="bar screen" width="200" height="200"/></a></td>
+    <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/bar-screen"><img src="./Documents/Products/bar-screen/img/img_bar_1.jpg" alt="bar screen" width="auto"  height="200"/></a></td>
+  </tr>
+  <tr>
+    <td>Conference all-in-one machine</td>
+    <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/all-in-one">Conference all-in-one machine</a></td>
+    <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/all-in-one"><img src="./Documents/Products/all-in-one/img/all-in-one-2.jpg" alt="all-in-one" width="auto" height="200"/></a></td>
   </tr>
 </table>
 
