@@ -1,4 +1,6 @@
-# [HYY AI-Screen](http://www.we-signage.com/)
+
+![HYY AI-Screen](./Documents/logo/AI_Screen.png)
+http://www.we-signage.com
 
 <p>
 <img alt="AI-Screen" src="https://img.shields.io/github/discussions/industrialtablet/AI-Screen?color=162453&style=flat-square&label=AI-Screen&logo=github"/>
@@ -14,8 +16,9 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
 > This repository contains a curated list of useful resources for AI Screens products from [HYY ↗](https://www.we-signage.com).
 
 ## Contents
-- [HYY AI-Screen](#hyy-ai-screen)
-  -> [Bar Screen](./Documents/Products/bar-screen/README.md)
+> [HYY AI-Screen](#hyy-ai-screen)
+>  - [Bar Screen](./Documents/Products/bar-screen/README.md)
+
 - [AI-Powered Human-Computer Interaction](#ai-powered-human-computer-interaction)
   - [Introduction](#introduction)
   - [Contents](#contents)
