@@ -1,6 +1,13 @@
 
-![HYY AI-Screen](./Documents/logo/AI_Screen.png)
-http://www.we-signage.com
+<p align = "center">
+  <a href="http://www.we-signage.com">
+  <img src="./Documents/img/AI_Screen.png" height="200" />
+  </a>
+
+  <a href="http://www.we-signage.com">www.we-signage.com</a>
+</p>
+
+
 
 <p>
 <img alt="AI-Screen" src="https://img.shields.io/github/discussions/industrialtablet/AI-Screen?color=162453&style=flat-square&label=AI-Screen&logo=github"/>
@@ -17,7 +24,20 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
 
 ## Contents
 > [HYY AI-Screen](#hyy-ai-screen)
->  - [Bar Screen](./Documents/Products/bar-screen/README.md)
+
+
+<table>
+  <tr>
+    <th>Products</th>
+    <th>Link</th>
+    <th>photo</th>
+  </tr>
+  <tr>
+    <td>Bar Screen</td>
+    <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/bar-screen">Bar Screen</a></td>
+    <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/bar-screen"><img src="./Documents/Products/bar-screen/img/img_bar_1.jpg" alt="bar screen" width="200" height="200"/></a></td>
+  </tr>
+</table>
 
 - [AI-Powered Human-Computer Interaction](#ai-powered-human-computer-interaction)
   - [Introduction](#introduction)
