@@ -1,7 +1,7 @@
 
 <p align = "center">
   <a href="http://www.we-signage.com">
-  <img src="./Documents/img/AI_Screen.png" height="200" />
+  <img src="./Documents/img/AI_Screen.png" height="150" />
   </a>
 
   <a href="http://www.we-signage.com">www.we-signage.com</a>
@@ -26,7 +26,7 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
 > [HYY AI-Screen](#hyy-ai-screen)
 
 
-<table align="center">
+<table textalign="center">
   <tr>
     <th>Products</th>
     <th>Link</th>
@@ -35,7 +35,7 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
   <tr>
     <td>Bar Screen</td>
     <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/bar-screen">Bar Screen</a></td>
-    <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/bar-screen"><img src="./Documents/Products/bar-screen/img/img_bar_1.jpg" alt="bar screen" width="auto"  height="200"/></a></td>
+    <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/bar-screen"><img src="./Documents/Products/bar-screen/img/img_bar_1.jpg" alt="bar screen" width="auto"  height="200" style="vertical-align: middle;"/></a></td>
   </tr>
   <tr>
     <td>Conference all-in-one machine</td>
