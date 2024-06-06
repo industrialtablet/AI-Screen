@@ -32,9 +32,9 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
   </tr>
   <tr>
   <tr>
-    <td><img src="./Documents/img/main_p_1.jpg"/></td>
-     <td><img src="./Documents/img/main_p_2.jpg"/></td>
-      <td><img src="./Documents/img/main_p_3.jpg"/></td>
+    <td width="33.33%"><img src="./Documents/img/main_p_1.jpg" width="100%" height="auto"/></td>
+     <td width="33.33%"><img src="./Documents/img/main_p_2.jpg" width="100%" height="auto"/></td>
+      <td width="33.33%"><img src="./Documents/img/main_p_3.jpg" width="100%" height="auto"/></td>
   </tr>
   <!-- <tr>
     <td><img src="./Documents/img/main_p_1.jpg"/></td>
@@ -47,9 +47,9 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
     <th>products</th>
   </tr>
    <tr>
-    <td><img src="./Documents/img/main_p_4.jpg" width="200" height="auto"/></td>
-     <td><img src="./Documents/img/main_p_5.jpg" width="200" height="auto"/></td>
-      <td><img src="./Documents/img/main_p_6.jpg" width="200" height="auto"/></td>
+    <td width="33.33%"><img src="./Documents/img/main_p_4.jpg" width="100%" height="auto"/></td>
+     <td width="33.33%"><img src="./Documents/img/main_p_5.jpg" width="100%" height="auto"/></td>
+      <td width="33.33%"><img src="./Documents/img/main_p_6.jpg" width="100%" height="auto"/></td>
   </tr>
   <!-- <tr>
     <td>Bar Screen</td>
