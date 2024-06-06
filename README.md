@@ -26,9 +26,9 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
 
 <table textalign="center">
   <tr>
-    <th>products</th>
-    <th>products</th>
-    <th>products</th>
+    <th>L type AIO Display</th>
+    <th>Raspberry Pi Display</th>
+    <th>Commerical Display </th>
   </tr>
   <tr>
   <tr>
@@ -42,9 +42,9 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
     <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/all-in-one"><img src="./Documents/Products/all-in-one/img/all-in-one-2.jpg" alt="all-in-one" width="auto" height="200"/></a></td>
   </tr> -->
   <tr>
-    <th>products</th>
-    <th>products</th>
-    <th>products</th>
+    <th>Medical Health Display</th>
+    <th>Meeting room Display</th>
+    <th>NX witness Server</th>
   </tr>
    <tr>
     <td width="33.33%"><img src="./Documents/img/main_p_4.jpg" width="100%" height="auto"/></td>
