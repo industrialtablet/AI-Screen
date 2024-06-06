@@ -74,7 +74,7 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
       <p align="center">Dennis</p>
     </td>
     <td>
-      <img src="./Documents/img/Arlen.jpg" width="100" height="auto"/>
+      <img src="./Documents/img/arlen.jpg" width="100" height="auto"/>
       <p align="center">Arlen</p>
     </td>
   </tr>
