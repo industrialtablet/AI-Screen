@@ -59,17 +59,27 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
   
 </table>
 
-- [AI-Powered Human-Computer Interaction](#ai-powered-human-computer-interaction)
+<!-- - [AI-Powered Human-Computer Interaction](#ai-powered-human-computer-interaction)
   - [Introduction](#introduction)
   - [Contents](#contents)
   - [Meet the AI Screen Team](#meet-the-ai-screen-team)
-  - [AI Screen Products](#ai-screen-products)
   - [AI Screen Projects](#ai-screen-projects)
-  - [Contacts](#contacts)
+  - [Contacts](#contacts) -->
 
-## Meet the AI Screen Team
+### Meet the AI Screen Team
+<table>
+  <tr>
+    <td>
+      <img src="./Documents/img/Dennis.jpg" width="100" height="auto"/>
+      <p align="center">Dennis</p>
+    </td>
+    <td>
+      <img src="./Documents/img/Arlen.jpg" width="100" height="auto"/>
+      <p align="center">Arlen</p>
+    </td>
+  </tr>
+</table>
 
-## AI Screen Products
 
 ## AI Screen Projects
 
