@@ -21,7 +21,6 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
 > This repository contains a curated list of useful resources for AI Screens products from [HYY ↗](https://www.we-signage.com).
 
 ## Contents
-> [HYY AI-Screen](#hyy-ai-screen)
 
 
 <table textalign="center">
