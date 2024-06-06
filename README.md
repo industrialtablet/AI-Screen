@@ -48,7 +48,7 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
    <tr>
     <td width="33.33%"><img src="./Documents/img/main_p_4.jpg" width="100%" height="auto"/></td>
      <td width="33.33%"><img src="./Documents/img/main_p_5.jpg" width="100%" height="auto"/></td>
-      <td width="33.33%"><img src="./Documents/img/main_p_6.jpg" width="100%" height="auto"/></td>
+      <td width="33.33%"><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/box"><img src="./Documents/img/main_p_6.jpg" width="100%" height="auto"/></a></td>
   </tr>
   <!-- <tr>
     <td>Bar Screen</td>
