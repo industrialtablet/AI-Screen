@@ -26,20 +26,36 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
 
 <table textalign="center">
   <tr>
-    <th>Products</th>
-    <th>Link</th>
-    <th>photo</th>
+    <th>products</th>
+    <th>products</th>
+    <th>products</th>
   </tr>
   <tr>
   <tr>
-    <td>Hot all in one display</td>
+    <td><img src="./Documents/img/main_p_1.jpg"/></td>
+     <td><img src="./Documents/img/main_p_2.jpg"/></td>
+      <td><img src="./Documents/img/main_p_3.jpg"/></td>
+  </tr>
+  <!-- <tr>
+    <td><img src="./Documents/img/main_p_1.jpg"/></td>
     <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/all-in-one">Conference all-in-one machine</a></td>
     <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/all-in-one"><img src="./Documents/Products/all-in-one/img/all-in-one-2.jpg" alt="all-in-one" width="auto" height="200"/></a></td>
+  </tr> -->
+  <tr>
+    <th>products</th>
+    <th>products</th>
+    <th>products</th>
   </tr>
+   <tr>
+    <td><img src="./Documents/img/main_p_4.jpg" width="200" height="auto"/></td>
+     <td><img src="./Documents/img/main_p_5.jpg" width="200" height="auto"/></td>
+      <td><img src="./Documents/img/main_p_6.jpg" width="200" height="auto"/></td>
+  </tr>
+  <!-- <tr>
     <td>Bar Screen</td>
     <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/bar-screen">Bar Screen</a></td>
     <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/bar-screen"><img src="./Documents/Products/bar-screen/img/img_bar_1.jpg" alt="bar screen" width="auto"  height="200" style="vertical-align: middle;"/></a></td>
-  </tr>
+  </tr> -->
   
 </table>
 
