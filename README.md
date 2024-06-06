@@ -28,7 +28,7 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
   <tr>
     <th>L type AIO Display</th>
     <th>Raspberry Pi Display</th>
-    <th><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/all-in-one">Commerical Display</a></th>
+    <th><a text-decoration="none" href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/all-in-one">Commerical Display</a></th>
   </tr>
   <tr>
   <tr>
