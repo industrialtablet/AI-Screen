@@ -69,7 +69,7 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
 <table>
   <tr>
     <td>
-      <img src="./Documents/img/Dennis.jpg" width="100" height="auto"/>
+      <img src="./Documents/img/Dennis2.png" width="100" height="auto"/>
       <p align="center">Dennis</p>
     </td>
     <td>
