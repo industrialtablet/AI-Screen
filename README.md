@@ -84,8 +84,6 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
 </table>
 
 
-## AI Screen Projects
-
 ## Contacts
 
 - Website: www.we-signage.com
@@ -93,3 +91,9 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
 - E-mail: dennis@we-signage.com
 - MP/Whatsapp/Wechat: + 86 13349909990
 - Skype: solled686
+
+<p >
+  <a href="http://www.we-signage.com">
+  <img src="./Documents/img/map.jpg" height="200" />
+  </a>
+</p>
