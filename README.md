@@ -69,19 +69,23 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
 <table>
   <tr>
     <td>
-      <img src="./Documents/img/Dennis2.png" width="100" height="auto"/>
+      <img src="./Documents/img/Dennis2.png" width="100" height="100"/>
       <p align="center">Dennis</p>
     </td>
     <td>
-      <img src="./Documents/img/arlen.jpg" width="100" height="auto"/>
+      <img src="./Documents/img/arlen.jpg" width="100" height="100"/>
       <p align="center">Arlen</p>
     </td>
     <td>
-      <img src="./Documents/img/yuanbao.png" width="100" height="auto"/>
+      <img src="./Documents/img/yuanbao.png" width="100" height="100"/>
       <p align="center">Yuanbao</p>
     </td>
     <td>
-      <img src="./Documents/img/Lillian.jpg" width="100" height="auto"/>
+      <img src="./Documents/img/Jen.jpg" width="100" height="100"/>
+      <p align="center">Jen</p>
+    </td>
+    <td>
+      <img src="./Documents/img/Lillian.jpg" width="100" height="100"/>
       <p align="center">Lillian</p>
     </td>
   </tr>
