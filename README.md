@@ -32,18 +32,13 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
   <tr>
     <th>L type AIO Display</th>
     <th><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/raspberry-pi">Raspberry Pi Display</a></th>
-    <th><a  href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/all-in-one" style="text-decoration: none;">Commerical Display</a></th>
+    <th><a  href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/Commercial-Display" style="text-decoration: none;">Commerical Display</a></th>
   </tr>
   <tr>
     <td width="33.33%"><img src="./Documents/img/main_p_1.jpg" width="100%" height="auto"/></td>
      <td width="33.33%"><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/raspberry-pi"><img src="./Documents/img/main_p_2.jpg" width="100%" height="auto"/></a></td>
-      <td width="33.33%"><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/all-in-one"><img src="./Documents/img/main_p_3.jpg" width="100%" height="auto"/></a></td>
+      <td width="33.33%"><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/Commercial-Display"><img src="./Documents/img/main_p_3.jpg" width="100%" height="auto"/></a></td>
   </tr>
-  <!-- <tr>
-    <td><img src="./Documents/img/main_p_1.jpg"/></td>
-    <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/all-in-one">Conference all-in-one machine</a></td>
-    <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/all-in-one"><img src="./Documents/Products/all-in-one/img/all-in-one-2.jpg" alt="all-in-one" width="auto" height="200"/></a></td>
-  </tr> -->
   <tr>
     <th>Medical Health Display</th>
     <th>Meeting room Display</th>
@@ -54,20 +49,9 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
      <td width="33.33%"><img src="./Documents/img/main_p_5.jpg" width="100%" height="auto"/></td>
       <td width="33.33%"><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/box"><img src="./Documents/img/main_p_6.jpg" width="100%" height="auto"/></a></td>
   </tr>
-  <!-- <tr>
-    <td>Bar Screen</td>
-    <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/bar-screen">Bar Screen</a></td>
-    <td><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/bar-screen"><img src="./Documents/Products/bar-screen/img/img_bar_1.jpg" alt="bar screen" width="auto"  height="200" style="vertical-align: middle;"/></a></td>
-  </tr> -->
   
 </table>
 
-<!-- - [AI-Powered Human-Computer Interaction](#ai-powered-human-computer-interaction)
-  - [Introduction](#introduction)
-  - [Contents](#contents)
-  - [Meet the AI Screen Team](#meet-the-ai-screen-team)
-  - [AI Screen Projects](#ai-screen-projects)
-  - [Contacts](#contacts) -->
 
 ### Meet the AI Screen Team
 <table>
