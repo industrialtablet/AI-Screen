@@ -80,6 +80,10 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
       <img src="./Documents/img/yuanbao.png" width="100" height="auto"/>
       <p align="center">Yuanbao</p>
     </td>
+    <td>
+      <img src="./Documents/img/Lillian.jpg" width="100" height="auto"/>
+      <p align="center">Lillian</p>
+    </td>
   </tr>
 </table>
 
