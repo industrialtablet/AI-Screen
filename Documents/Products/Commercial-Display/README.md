@@ -1,4 +1,4 @@
-# Commerical Display
+# Commercial Display
 
 
 <table textalign="center">
