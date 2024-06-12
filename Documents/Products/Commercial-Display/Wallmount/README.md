@@ -21,7 +21,7 @@
 </tr>
 
 <tr>
-    <td width="33%"><a href=""><img src="./all-in-one/img/all-in-one-1.jpg" width="100%" height="auto"/></a></td>
+    <td width="33%"><a href="./all-in-one/"><img src="./all-in-one/img/all-in-one-1.jpg" width="100%" height="auto"/></a></td>
     <td width="73%">
         <a href="./all-in-one/specification/65-all-in-one.jpg">65"</a>&nbsp;&nbsp;&nbsp;
         <a href="./all-in-one/specification/75-all-in-one.jpg">75"</a>&nbsp;&nbsp;&nbsp;
