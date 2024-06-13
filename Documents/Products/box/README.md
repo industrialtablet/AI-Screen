@@ -3,13 +3,13 @@
 
 <table textalign="center">
 <tr>
-    <th><a href="./nx/">NX witness Server</a></th>
+    <th><a href="./nx/specification/nas-3588.jpg">NX witness Server</a></th>
     <th><a href=""></a></th>
     <th><a href=""></a></th>
     
 </tr>
 <tr>
-    <td width="33.33%"><a href="./nx/"><img src="./img/nx-box.jpg" width="100%" height="auto"/></a></td>
+    <td width="33.33%"><a href="./nx/specification/nas-3588.jpg"><img src="./img/nx-box.jpg" width="100%" height="auto"/></a></td>
     <!-- <td width="33.33%"><a href=""><img src="" width="100%" height="auto"/></a></td>
     <td width="33.33%"><a href=""><img src="" width="100%" height="auto"/></a></td> -->
 </tr>
