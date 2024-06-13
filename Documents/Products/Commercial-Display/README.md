@@ -21,7 +21,7 @@
 <tr>
     <td width="33.33%"><a href=""><img src="./img/5.jpg" width="100%" height="auto"/></a></td>
     <td width="33.33%"><a href="./bar-screen/"><img src="./img/4.jpg" width="100%" height="auto"/></a></td>
-    <td width="33.33%"><a href=""><img src="./img/5.jpg" width="100%" height="auto"/></a></td>
+    <td width="33.33%"><a href=""><img src="./img/6.png" width="auto" height="auto"/></a></td>
   
 </tr>
 </table>

@@ -13,7 +13,7 @@
 <img at = "AI-Screen" src="https://img.shields.io/badge/Google-AI%20Screen-4c86ea.svg?style=flat?style=flat-square&logo=Android">
 <br/>
  
-   <a href="https://www.youtube.com/watch?v=KPAvvgL1vNw" target="_blank">
+   <a href="https://www.youtube.com/@Arlen-show" target="_blank">
 <img at = "YouTube Tutoial Views" src="https://img.shields.io/badge/YouTube-Tutoial%20Views-4c86ea.svg?style=flat?style=flat-square&logo=YouTube">
 </a>
 </p> 
@@ -31,23 +31,23 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
 <table textalign="center">
   <tr>
     <th>L type AIO Display</th>
-    <th><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/raspberry-pi">Raspberry Pi Display</a></th>
-    <th><a  href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/Commercial-Display" style="text-decoration: none;">Commercial Display</a></th>
+    <th><a href="./Documents/Products/raspberry-pi/">Raspberry Pi Display</a></th>
+    <th><a  href="./Documents/Products/Commercial-Display/" style="text-decoration: none;">Commercial Display</a></th>
   </tr>
   <tr>
     <td width="33.33%"><img src="./Documents/img/main_p_1.jpg" width="100%" height="auto"/></td>
-     <td width="33.33%"><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/raspberry-pi"><img src="./Documents/img/main_p_2.jpg" width="100%" height="auto"/></a></td>
-      <td width="33.33%"><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/Commercial-Display"><img src="./Documents/img/main_p_3.jpg" width="100%" height="auto"/></a></td>
+     <td width="33.33%"><a href="./Documents/Products/raspberry-pi/"><img src="./Documents/img/main_p_2.jpg" width="100%" height="auto"/></a></td>
+      <td width="33.33%"><a href="./Documents/Products/Commercial-Display/"><img src="./Documents/img/main_p_3.jpg" width="100%" height="auto"/></a></td>
   </tr>
   <tr>
     <th>Medical Health Display</th>
     <th>Meeting room Display</th>
-    <th><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/box">NX witness Server</a></th>
+    <th><a href="./Documents/Products/box/">AI Box</a></th>
   </tr>
    <tr>
     <td width="33.33%"><img src="./Documents/img/main_p_4.jpg" width="100%" height="auto"/></td>
      <td width="33.33%"><img src="./Documents/img/main_p_5.jpg" width="100%" height="auto"/></td>
-      <td width="33.33%"><a href="https://github.com/industrialtablet/AI-Screen/tree/main/Documents/Products/box"><img src="./Documents/img/main_p_6.jpg" width="100%" height="auto"/></a></td>
+      <td width="33.33%"><a href="./Documents/Products/box/"><img src="./Documents/img/main_p_6.jpg" width="100%" height="auto"/></a></td>
   </tr>
   
 </table>
