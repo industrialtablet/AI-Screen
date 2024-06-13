@@ -8,9 +8,9 @@
     
 </tr>
 <tr>
-    <td width="50%"><a href=""><img src="../img/6.png" width="100%" height="auto"/></a></td>
+    <td width="50%"><a href=""><img src="./img/2.jpg" width="auto" height="auto"/></a></td>
     <td width="50%">
-        <a href="./specification/magazine-21.5.jpg">21.5"</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/21.5.png">21.5"</a>&nbsp;&nbsp;&nbsp;
     </td>
    
 </tr>

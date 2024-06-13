@@ -41,12 +41,12 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
   </tr>
   <tr>
     <th>Medical Health Display</th>
-    <th>Meeting room Display</th>
+    <th><a href="./Documents/Products/Meeting-room-Display/">Meeting room Display</a></th>
     <th><a href="./Documents/Products/box/">AI Box</a></th>
   </tr>
    <tr>
     <td width="33.33%"><img src="./Documents/img/main_p_4.jpg" width="100%" height="auto"/></td>
-     <td width="33.33%"><img src="./Documents/img/main_p_5.jpg" width="100%" height="auto"/></td>
+     <td width="33.33%"><a href="./Documents/Products/Meeting-room-Display/"><img src="./Documents/img/main_p_5.jpg" width="100%" height="auto"/></a></td>
       <td width="33.33%"><a href="./Documents/Products/box/"><img src="./Documents/img/main_p_6.jpg" width="100%" height="auto"/></a></td>
   </tr>
   
