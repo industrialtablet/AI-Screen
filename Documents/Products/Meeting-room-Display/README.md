@@ -1,4 +1,4 @@
-# Newspaper Shelf Digital Signage Kiosk
+# Meeting Room RGB LED tablet Android 13 and NFC/RFID black Metal case
 
 
 <table textalign="center">
