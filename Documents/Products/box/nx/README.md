@@ -1,18 +1,20 @@
 # [NX witness Server](./specification/nas-3588.jpg)
 
 
-<p align = "center">
-    <table>
-        <tr>
-            <td width="50%">
-                <img src="./img/nas-1.jpg"/>
-            <td>
-            <td width="32%">
-                <img src="./img/nas-2.jpg"/>
-            <td>
+<table textalign="center">
+    <tr>
+        <td width="33.33%">
+            <a href="./specification/nas-3588.jpg">
+            <img src="./img/nas-1.jpg"/>
+            </a>
+        </td>
+        <td width="30%">
+            <a href="./specification/nas-3588.jpg">
+             <img src="./img/nas-2.jpg"/>
+            </a>
+        </td>
         </tr>
-    </table>
-</p>
+</table>
 
 # Contacts
 
