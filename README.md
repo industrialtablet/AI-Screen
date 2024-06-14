@@ -100,7 +100,7 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
   </tr>
 </table>
 
-### Meet the AI Screen Team
+### Meet the AI Screen Engineer Team (Andriod/Linux/Windows)
 <table>
   <tr>
     <td>
@@ -112,16 +112,16 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
       <p align="center">Arlen</p>
     </td>
     <td>
-      <img src="./Documents/img/yuanbao.png" width="100" height="100"/>
-      <p align="center">Yuanbao</p>
+      <img src="./Documents/img/zhang.jpg" width="100" height="100"/>
+      <p align="center">Zhang</p>
     </td>
     <td>
-      <img src="./Documents/img/Jen.jpg" width="100" height="100"/>
-      <p align="center">Jen</p>
+      <img src="./Documents/img/Owen.jpg" width="100" height="100"/>
+      <p align="center">Owen</p>
     </td>
     <td>
-      <img src="./Documents/img/Lillian.jpg" width="100" height="100"/>
-      <p align="center">Lillian</p>
+      <img src="./Documents/img/Kevin.jpg" width="100" height="100"/>
+      <p align="center">Kevin</p>
     </td>
   </tr>
 </table>
