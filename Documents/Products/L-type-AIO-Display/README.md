@@ -25,7 +25,7 @@
 </tr>
 
 <tr>
-    <td ><a href=""><img src="./img/10-H-1.jpg" width="250" height="auto"/><img src="./img/10-H-2.jpg" width="250" height="auto"/></a></td>
+    <td ><a href=""><img src="./img/10-H-1.jpg" width="250" height="auto"/><img src="./img/10-H-3.png" width="280" height="auto"/></a></td>
     <td>
         <a href="./specification/10.1-H-3566-T1.png">[10.1"-H-RK3566-T1]</a>&nbsp;&nbsp;&nbsp;
         <a href="./specification/10.1-H-3568-T1.png">[10.1"-H-RK3568-T1]</a>&nbsp;&nbsp;&nbsp;

@@ -14,6 +14,16 @@
     </td>
 </tr>
 
+<tr>
+    <td><a href=""><img src="./img/v-49.jpg" width="auto" height="300"/></a></td>
+    <td>
+        <a href="./specification/43inch.png">[43"]</a>&nbsp;&nbsp;&nbsp;
+        [49]&nbsp;&nbsp;&nbsp;
+        <a href="./specification/55inch.png">[55"]</a>&nbsp;&nbsp;&nbsp;
+        [65]&nbsp;&nbsp;&nbsp;
+    </td>
+</tr>
+
 </table>
 
 ## Entity Graph

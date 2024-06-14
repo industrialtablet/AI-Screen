@@ -94,9 +94,9 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
     <td>
       <img src="./Documents/img/p11.jpg" width="350" height="auto"/>
     </td>
-    <!-- <td>
-      <img src="./Documents/img/p3.jpg" width="350" height="auto"/>
-    </td> -->
+    <td>
+      <img src="./Documents/Products/Commercial-Display/Floor-Standing/img/p3.jpg" width="350" height="auto"/>
+    </td>
   </tr>
 </table>
 
