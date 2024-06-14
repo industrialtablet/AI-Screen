@@ -17,7 +17,7 @@
 </tr>
 
 <tr>
-    <td ><a href=""><img src="./img/8-V.jpg" width="200" height="auto"/></a></td>
+    <td ><a href=""><img src="./img/8-V-1.jpg" width="250" height="auto"/><img src="./img/8-V-2.jpg" width="250" height="auto"/></a></td>
     <td>
         <a href="./specification/8-V-3566.jpg">[8"-V-RK3566]</a>&nbsp;&nbsp;&nbsp;
         <a href="./specification/8-V-3568.jpg">[8"-V-RK3568]</a>&nbsp;&nbsp;&nbsp;

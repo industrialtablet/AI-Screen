@@ -52,7 +52,7 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
   
 </table>
 
-### Product site photos
+### Product Delivery Photos
 <table>
   <tr>
     <td>
