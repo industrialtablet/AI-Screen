@@ -25,7 +25,7 @@
         <a href="./specification/type1-10.1-3568.jpg">[Type1-10.1"-RK3568]</a>&nbsp;&nbsp;&nbsp;
           <a href="./specification/type1-10.1-3566-2.jpg">[Type2-10.1"-RK3566]</a>&nbsp;&nbsp;&nbsp;
         <a href="./specification/type1-10.1-3568-2.jpg">[Type2-10.1"-RK3568]</a>&nbsp;&nbsp;&nbsp;
-        <a href="">[13.3"] [15.6"]</a>&nbsp;&nbsp;&nbsp;
+        <p>[13.3"] [15.6"]</>
     </td>
 </tr>
 
