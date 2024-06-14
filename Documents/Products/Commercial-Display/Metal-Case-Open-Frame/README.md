@@ -1,5 +1,5 @@
 # Metal Case Open Frame
-<a href="./img/1.png">
+<a href="./specification/1.png">
 <table>
     <tr>
         <td width="33.3%">

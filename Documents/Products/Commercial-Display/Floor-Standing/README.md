@@ -8,8 +8,8 @@
     
 </tr>
 <tr>
-    <td width="30%"><a href=""><img src="../img/3.jpg" width="auto" height="300"/></a></td>
-    <td width="50%">
+    <td><a href=""><img src="../img/3.jpg" width="auto" height="300"/></a></td>
+    <td>
         <a href="./specification/43.png">43"</a>&nbsp;&nbsp;&nbsp;
     </td>
 </tr>

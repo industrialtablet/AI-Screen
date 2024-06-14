@@ -8,22 +8,22 @@
     
 </tr>
 <tr>
-    <td width="70%"><a href=""><img src="./img/21.5-1.jpg" width="200" height="auto"/><img src="./img/21.5-2.jpg" width="200" height="auto"/></a></td>
-    <td width="30%">
+    <td ><a href=""><img src="./img/21.5-1.jpg" width="200" height="auto"/><img src="./img/21.5-2.jpg" width="200" height="auto"/></a></td>
+    <td >
         <a href="./specification/21.5-3399.png">[21.5"-3399]</a>&nbsp;&nbsp;&nbsp;
         <a href="./specification/21.5-3588.png">[21.5"-3588]</a>&nbsp;&nbsp;&nbsp;
     </td>
 </tr>
 <tr>
-    <td width="70%"><a href=""><img src="./img/24-1.jpg" width="200" height="auto"/><img src="./img/24-2.jpg" width="200" height="auto"/></a></td>
-    <td width="30%">
+    <td ><a href=""><img src="./img/24-1.jpg" width="200" height="auto"/><img src="./img/24-2.jpg" width="200" height="auto"/></a></td>
+    <td >
         <a href="./specification/24-3399.jpg">[24"-3399]</a>&nbsp;&nbsp;&nbsp;
         <a href="./specification/24-3588.jpg">[24"-3588]</a>&nbsp;&nbsp;&nbsp;
     </td>
 </tr>
 <tr>
-    <td width="70%"><a href=""><img src="./img/32-1.jpg" width="200" height="auto"/><img src="./img/32-2.jpg" width="200" height="auto"/></a></td>
-    <td width="30%">
+    <td ><a href=""><img src="./img/32-1.jpg" width="200" height="auto"/><img src="./img/32-2.jpg" width="200" height="auto"/></a></td>
+    <td>
         <a href="./specification/32-3399.jpg">[32"-3399]</a>&nbsp;&nbsp;&nbsp;
         <a href="./specification/32-3588.jpg">[32"-3588]</a>&nbsp;&nbsp;&nbsp;
     </td>
