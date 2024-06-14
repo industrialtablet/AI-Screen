@@ -30,22 +30,22 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
 
 <table textalign="center">
   <tr>
-    <th>L type AIO Display</th>
+    <th><a href="./Documents/Products/L-type-AIO-Display/">L type AIO Display</a></th>
     <th><a href="./Documents/Products/raspberry-pi/">Raspberry Pi Display</a></th>
     <th><a  href="./Documents/Products/Commercial-Display/" style="text-decoration: none;">Commercial Display</a></th>
   </tr>
   <tr>
-    <td width="33.33%"><img src="./Documents/img/main_p_1.jpg" width="100%" height="auto"/></td>
+    <td width="33.33%"><a href="./Documents/Products/L-type-AIO-Display/"><img src="./Documents/img/main_p_1.jpg" width="100%" height="auto"/></a></td>
      <td width="33.33%"><a href="./Documents/Products/raspberry-pi/"><img src="./Documents/img/main_p_2.jpg" width="100%" height="auto"/></a></td>
       <td width="33.33%"><a href="./Documents/Products/Commercial-Display/"><img src="./Documents/img/main_p_3.jpg" width="100%" height="auto"/></a></td>
   </tr>
   <tr>
-    <th>Medical Health Display</th>
+    <th><a href="./Documents/Products/Medical-Health-Display/">Medical Health Display</a></th>
     <th><a href="./Documents/Products/Meeting-room-Display/">Meeting room Display</a></th>
     <th><a href="./Documents/Products/box/">AI Box</a></th>
   </tr>
    <tr>
-    <td width="33.33%"><img src="./Documents/img/main_p_4.jpg" width="100%" height="auto"/></td>
+    <td width="33.33%"><a href="./Documents/Products/Medical-Health-Display/"><img src="./Documents/img/main_p_4.jpg" width="100%" height="auto"/></a></td>
      <td width="33.33%"><a href="./Documents/Products/Meeting-room-Display/"><img src="./Documents/img/main_p_5.jpg" width="100%" height="auto"/></a></td>
       <td width="33.33%"><a href="./Documents/Products/box/"><img src="./Documents/img/main_p_6.jpg" width="100%" height="auto"/></a></td>
   </tr>
