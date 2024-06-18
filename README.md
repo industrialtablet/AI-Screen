@@ -105,23 +105,23 @@ Welcome to the future of intelligent interaction with our cutting-edge Smart Scr
   <tr>
     <td>
       <img src="./Documents/img/Dennis2.png" width="100" height="100"/>
-      <p align="center">Dennis</p>
+      <p align="center">Dennis(CEO)</p>
     </td>
     <td>
       <img src="./Documents/img/arlen.jpg" width="100" height="100"/>
-      <p align="center">Arlen</p>
+      <p align="center">Arlen(CMO)</p>
     </td>
     <td>
       <img src="./Documents/img/zhang.jpg" width="100" height="100"/>
-      <p align="center">Zhang</p>
+      <p align="center">Zhang(CFO)</p>
     </td>
     <td>
       <img src="./Documents/img/Owen.jpg" width="100" height="100"/>
-      <p align="center">Owen</p>
+      <p align="center">Owen(CTO)</p>
     </td>
     <td>
       <img src="./Documents/img/Kevin.jpg" width="100" height="100"/>
-      <p align="center">Kevin</p>
+      <p align="center">Kevin(CTO)</p>
     </td>
   </tr>
 </table>

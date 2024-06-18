@@ -23,9 +23,10 @@
     <td width="30%">
         <a href="./specification/type1-10.1-3566.jpg">[Type1-10.1"-RK3566]</a>&nbsp;&nbsp;&nbsp;
         <a href="./specification/type1-10.1-3568.jpg">[Type1-10.1"-RK3568]</a>&nbsp;&nbsp;&nbsp;
-          <a href="./specification/type1-10.1-3566-2.jpg">[Type2-10.1"-RK3566]</a>&nbsp;&nbsp;&nbsp;
-        <a href="./specification/type1-10.1-3568-2.jpg">[Type2-10.1"-RK3568]</a>&nbsp;&nbsp;&nbsp;
-        <p>[13.3"] [15.6"]</>
+        <a href="./specification/Type1-13.3-3566.jpg">[Type1-13.3"-RK3566]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/Type1-13.3-3568.jpg">[Type1-13.3"-RK3568]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/type1-15.6-3566.jpg">[Type1-15.6"-RK3566]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/type1-15.6-3568.jpg">[Type1-15.6"-RK3568]</a>&nbsp;&nbsp;&nbsp;
     </td>
 </tr>
 

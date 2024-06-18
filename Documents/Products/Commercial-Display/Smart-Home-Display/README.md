@@ -40,9 +40,9 @@
     <a href=""><img src="./img/type2-3.png" width="200" height="auto"/></a></td>
     <td>
         <a href="./specification/type2-16-3588.png">[16"-RK3588]</a>&nbsp;&nbsp;&nbsp;
-        [16"-RK3566]&nbsp;&nbsp;&nbsp;
-        [16"-RK3568]&nbsp;&nbsp;&nbsp;
-        [16"-RK3399]&nbsp;&nbsp;&nbsp;
+        <a href="./specification/16-3566.png">[16"-RK3566]</a>&nbsp;&nbsp;&nbsp;
+         <a href="./specification/16-3568.png">[16"-RK3568]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/16-3399.png">[16"-RK3399]</a>&nbsp;&nbsp;&nbsp;
     </td>
 </tr>
 
@@ -50,9 +50,8 @@
     <td ><a href=""><img src="./img/type2-4.png" width="500" height="auto"/></a></td>
     <td>
      <a href="./specification/type3-21.5-3588.png">[21.5"-RK3588]</a>&nbsp;&nbsp;&nbsp;
-       [21.5"-RK3566]&nbsp;&nbsp;&nbsp;
-        [21.5"-RK3568]&nbsp;&nbsp;&nbsp;
-        [21.5"-RK3399]&nbsp;&nbsp;&nbsp;
+        <a href="./specification/21.5-3568-B.png">[21.5"-RK3568]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/21.5-3399-B.png">[21.5"-RK3399]</a>&nbsp;&nbsp;&nbsp;
     </td>
 </tr>
 
