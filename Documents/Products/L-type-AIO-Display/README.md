@@ -62,8 +62,8 @@
 <tr>
     <td ><a href=""><img src="./img/17-1.jpg" width="250" height="auto"/><img src="./img/17-2.jpg" width="250" height="auto"/></a></td>
     <td>
-        <a href="./specification/17.6-3566.jpg">[17.6"-RK3566]</a>&nbsp;&nbsp;&nbsp;
-        <a href="./specification/17.6-3568.jpg">[17.6"-RK3568]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/17.6-3566.jpg">[17.3"-RK3566]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/17.6-3568.jpg">[17.3"-RK3568]</a>&nbsp;&nbsp;&nbsp;
     </td>
 </tr>
 
