@@ -21,12 +21,16 @@
 <tr>
     <td ><a href=""><img src="./img/type1-1.jpg" width="300" height="auto"/><img src="./img/type1-2.jpg" width="300" height="auto"/></a></td>
     <td width="30%">
-        <a href="./specification/type1-10.1-3566.jpg">[Type1-10.1"-RK3566]</a>&nbsp;&nbsp;&nbsp;
-        <a href="./specification/type1-10.1-3568.jpg">[Type1-10.1"-RK3568]</a>&nbsp;&nbsp;&nbsp;
-        <a href="./specification/Type1-13.3-3566.jpg">[Type1-13.3"-RK3566]</a>&nbsp;&nbsp;&nbsp;
-        <a href="./specification/Type1-13.3-3568.jpg">[Type1-13.3"-RK3568]</a>&nbsp;&nbsp;&nbsp;
-        <a href="./specification/type1-15.6-3566.jpg">[Type1-15.6"-RK3566]</a>&nbsp;&nbsp;&nbsp;
-        <a href="./specification/type1-15.6-3568.jpg">[Type1-15.6"-RK3568]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/type1-10.1-3566.jpg">[10.1"-RK3566-A]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/type1-10.1-3568.jpg">[10.1"-RK3568-A]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/Type1-13.3-3566.jpg">[13.3"-RK3566-A]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/Type1-13.3-3568.jpg">[13.3"-RK3568-A]</a>&nbsp;&nbsp;&nbsp;
+         <a href="./specification/type1-13.3-3566-B.jpg">[13.3"-RK3566-B]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/type1-13.3-3568-B.jpg">[13.3"-RK3568-B]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/type1-15.6-3566.jpg">[15.6"-RK3566-A]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/type1-15.6-3568.jpg">[15.6"-RK3568-A]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/type1-15.6-3566-B.jpg">[15.6"-RK3566-B]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/type1-15.6-3568-B.jpg">[15.6"-RK3568-B]</a>&nbsp;&nbsp;&nbsp;
     </td>
 </tr>
 
