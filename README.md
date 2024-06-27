@@ -22,8 +22,12 @@
 
 
 ## Introduction
-Welcome to the future of intelligent interaction with our cutting-edge Smart Screen designed by [HYY ↗](https://www.we-signage.com), featuring state-of-the-art AI-powered human-computer interaction capabilities. Designed to seamlessly integrate into your daily life, these devices leverages advanced artificial intelligence to provide an intuitive, responsive, and personalized user experience.
-> This repository contains a curated list of useful resources for AI Screens products from [HYY ↗](https://www.we-signage.com).
+Experience seamless digital solutions with [HYY](https://www.we-signage.com), always a learner in the Digital Signage industry, specializing in Android, Windows, and Linux systems. We provide a versatile range of devices from mini 7-inch machines to expansive 65-inch screens, focusing on compact models and Mini PC boxes.
+
+Our technology finds applications across various sectors including schools, hotels, restaurants, shopping malls, banks, and charging stations, among others. Powered by premium chipsets - RK3566, RK3568, RK3588 - our products are GMS certified, CE certified, and come with battery certification.
+
+Proud of our decade-long experience in smart signage and human-machine interaction, our technically proficient team is committed to providing enhanced industry-specific solutions. We strive to connect with like-minded professionals, aiming to deliver immense value in our field of expertise.
+
 
 ## Contents
 
