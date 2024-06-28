@@ -8,13 +8,8 @@
 
 
 <p align = "center">
-<!-- <img alt="AI-Screen" src="https://img.shields.io/github/stars/industrialtablet/AI-Screen?style=social&label=Star&maxAge=2592000"/>
-<img alt="AI-Screen" src="https://img.shields.io/badge/GitHub-AI%20Screen-5674dd.svg?style=flat?style=flat-square&logo=GitHub">
-<img at = "AI-Screen" src="https://img.shields.io/badge/Google-AI%20Screen-4c86ea.svg?style=flat?style=flat-square&logo=Android">
-<br/> -->
- 
    <a href="https://www.youtube.com/@Arlen-show" target="_blank">
-<img at = "YouTube Tutoial Views" src="https://img.shields.io/badge/YouTube-Tutoial%20Views-4c86ea.svg?style=flat?style=flat-square&logo=YouTube">
+<img at = "YouTube Tutoial Views" src="https://img.shields.io/badge/YouTube-Tutoial%20Views-4c86ea.svg?style=flat?style=flat-square&logo=YouTube&logoColor=red">
 </a>
 </p> 
 
