@@ -126,7 +126,7 @@ Proud of our decade-long experience in smart signage and human-machine interacti
 </table>
 
 ## Wiki
-- [Device startup logo replacement](https://github.com/industrialtablet/AI-Screen/wiki/Replace-startup-logo)
+- [BootLogo Replacement by yourself](https://github.com/industrialtablet/AI-Screen/wiki/BootLogo-Replacement-by-yourself)
 
 
 ## Contacts
