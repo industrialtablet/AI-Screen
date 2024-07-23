@@ -128,6 +128,8 @@ Proud of our decade-long experience in smart signage and human-machine interacti
 ## Wiki
 - [BootLogo Replacement by yourself](https://github.com/industrialtablet/AI-Screen/wiki/BootLogo-Replacement-by-yourself)
 
+## Development
+- [HYY RK3566 Device Android FrameWork API Interface Development Library](https://github.com/hejiangyan/HYY_rk3566_api)
 
 ## Contacts
 
