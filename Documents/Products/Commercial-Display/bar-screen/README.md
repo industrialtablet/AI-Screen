@@ -1,5 +1,5 @@
 # Bar Screen Display
-19.5" 24" 28.1" [28.6"](./specification/28.6.jpg) [34"](./specification/34.jpg) 35.4" 36.8" "37.6" 37" 43.9" 48.8" 49.5" 58.4" 69.3" 70" 75" [80"](./specification/80.jpg) 86" Inch Wide Lcd Monitor Screen Strip Bar Screen Advertising Display Stretched Bar Lcd Display
+19.5" [24"](./specification/24.jpg) 28.1" [28.6"](./specification/28.6.jpg) [34"](./specification/34.jpg) 35.4" [36.8"](./specification/36.8.jpg) "37.6" 37" 43.9" 48.8" [49.5"](./specification/49.5.jpg) 49.5" 58.4" 69.3" 70" 75" [80"](./specification/80.jpg) 86" Inch Wide Lcd Monitor Screen Strip Bar Screen Advertising Display Stretched Bar Lcd Display
 
 <p align = "center">
     <table>
