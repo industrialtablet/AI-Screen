@@ -18,7 +18,8 @@
             <a href="./zyx/specification/21.5.png">[21.5"]</a>&nbsp;&nbsp;&nbsp;
             <a href="./zyx/specification/24.png">[24"]</a>&nbsp;&nbsp;&nbsp;
             <a href="./zyx/specification/27.png">[27"]</a>&nbsp;&nbsp;&nbsp;
-            <a href="./zyx/specification/32.png">[32"]</a>
+            <a href="./zyx/specification/32.png">[32"]</a>&nbsp;&nbsp;&nbsp;
+            <a href="./zyx/specification/43.png">[43"]</a>
     </td>
    
 </tr>

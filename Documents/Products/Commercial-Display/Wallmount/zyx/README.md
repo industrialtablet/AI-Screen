@@ -19,6 +19,7 @@
             <a href="./specification/24.png">[24"]</a>&nbsp;&nbsp;&nbsp;
             <a href="./specification/27.png">[27"]</a>&nbsp;&nbsp;&nbsp;
             <a href="./specification/32.png">[32"]</a>&nbsp;&nbsp;&nbsp;
+            <a href="./specification/43.png">[43"]</a>
     </td>
    
 </tr>
