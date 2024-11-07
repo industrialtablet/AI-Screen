@@ -35,6 +35,16 @@
    
 </tr>
 
+<tr>
+    <td width="33%"><a href="./all-in-one/"><img src="./Rounded-corner-plane/img/r1.png" width="100%" height="auto"/></a></td>
+    <td width="73%">
+        <a href="./Rounded-corner-plane/specification/15.6.png">[15.6"]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./Rounded-corner-plane/specification/21.5.png">[21.5"]</a>&nbsp;&nbsp;&nbsp;
+         <a href="./Rounded-corner-plane/specification/23.8.png">[23.8"]</a>&nbsp;&nbsp;&nbsp;
+    </td>
+   
+</tr>
+
 </table>
 
 # Contacts
