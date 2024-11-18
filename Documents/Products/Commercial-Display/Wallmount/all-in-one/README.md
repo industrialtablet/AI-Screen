@@ -1,5 +1,5 @@
 # Conference all-in-one machine
-[65](./specification/65-all-in-one.jpg) [75](./specification/75-all-in-one.jpg) [85](./specification/85-all-in-one.jpg) [98](./specification/98-all-in-one.jpg) inch LCD conference all-in-one machine
+[55](./specification/55-all-in-one.png) [65](./specification/65-all-in-one.jpg) [75](./specification/75-all-in-one.jpg) [85](./specification/85-all-in-one.jpg) [98](./specification/98-all-in-one.jpg) inch LCD conference all-in-one machine
 
 <p align = "center">
     <table>

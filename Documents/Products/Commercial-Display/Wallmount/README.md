@@ -27,6 +27,7 @@
 <tr>
     <td width="33%"><a href="./all-in-one/"><img src="./all-in-one/img/all-in-one-1.jpg" width="100%" height="auto"/></a></td>
     <td width="73%">
+      <a href="./all-in-one/specification/55-all-in-one.png">[55"]</a>&nbsp;&nbsp;&nbsp;
         <a href="./all-in-one/specification/65-all-in-one.jpg">[65"]</a>&nbsp;&nbsp;&nbsp;
         <a href="./all-in-one/specification/75-all-in-one.jpg">[75"]</a>&nbsp;&nbsp;&nbsp;
          <a href="./all-in-one/specification/85-all-in-one.jpg">[85"]</a>&nbsp;&nbsp;&nbsp;
@@ -36,11 +37,20 @@
 </tr>
 
 <tr>
-    <td width="33%"><a href="./all-in-one/"><img src="./Rounded-corner-plane/img/r1.png" width="100%" height="auto"/></a></td>
+    <td width="33%"><a href=""><img src="./Rounded-corner-plane/img/r1.png" width="100%" height="auto"/></a></td>
     <td width="73%">
         <a href="./Rounded-corner-plane/specification/15.6.png">[15.6"]</a>&nbsp;&nbsp;&nbsp;
         <a href="./Rounded-corner-plane/specification/21.5.png">[21.5"]</a>&nbsp;&nbsp;&nbsp;
          <a href="./Rounded-corner-plane/specification/23.8.png">[23.8"]</a>&nbsp;&nbsp;&nbsp;
+    </td>
+   
+</tr>
+
+
+<tr>
+    <td width="33%"><a href=""><img src="./Tablets-for-Project/img/tfp.png" width="100%" height="auto"/></a></td>
+    <td width="73%">
+        <a href="./Tablets-for-Project/spectification/tfp-11.6.png">[11.6"]</a>&nbsp;&nbsp;&nbsp;
     </td>
    
 </tr>
