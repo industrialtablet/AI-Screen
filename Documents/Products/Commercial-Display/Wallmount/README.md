@@ -10,6 +10,7 @@
 <tr>
     <td width="33%"><a href="./zyx/"><img src="./zyx/img/main_p_3.jpg" width="100%" height="auto"/></a></td>
     <td width="73%">
+        <p>touch screen:</p>
         <a href="./zyx/specification/10.1.png">[10.1"]</a>&nbsp;&nbsp;&nbsp;
         <a href="./zyx/specification/11.6.png">[11.6"]</a>&nbsp;&nbsp;&nbsp;
          <a href="./zyx/specification/14.png">[14"]</a>&nbsp;&nbsp;&nbsp;
@@ -20,6 +21,9 @@
             <a href="./zyx/specification/27.png">[27"]</a>&nbsp;&nbsp;&nbsp;
             <a href="./zyx/specification/32.png">[32"]</a>&nbsp;&nbsp;&nbsp;
             <a href="./zyx/specification/43.png">[43"]</a>
+            <p>Non touch screen:</p>
+             <a href="./zyx/specification/non14.png">[14"]</a>&nbsp;&nbsp;&nbsp;
+             <a href="./zyx/specification/non15.6.png">[15.6"]</a>
     </td>
    
 </tr>
