@@ -58,6 +58,13 @@
     </td>
    
 </tr>
+<tr>
+    <td width="33%"><a href=""><img src="./ds/img/ds.png" width="100%" height="auto"/></a></td>
+    <td width="73%">
+        <a href="./ds/specification/32.png">[32"]</a>&nbsp;&nbsp;&nbsp;
+    </td>
+   
+</tr>
 
 </table>
 
