@@ -46,7 +46,7 @@ Proud of our decade-long experience in smart signage and human-machine interacti
    <tr>
     <td width="33.33%"><a href="./Documents/Products/Medical-Health-Display/"><img src="./Documents/img/main_p_4.jpg" width="100%" height="auto"/></a></td>
      <td width="33.33%"><a href="./Documents/Products/Meeting-room-Display/"><img src="./Documents/img/main_p_5.jpg" width="100%" height="auto"/></a></td>
-      <td width="33.33%"><a href="./Documents/Products/box/"><img src="./Documents/img/main_p_6.jpg" width="100%" height="auto"/></a></td>
+      <td width="33.33%"><a href="./Documents/Products/box/"><img src="./Documents/img/main_p_6.png" width="100%" height="auto"/></a></td>
   </tr>
   
 </table>

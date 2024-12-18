@@ -21,6 +21,8 @@
             <a href="./zyx/specification/27.png">[27"]</a>&nbsp;&nbsp;&nbsp;
             <a href="./zyx/specification/32.png">[32"]</a>&nbsp;&nbsp;&nbsp;
             <a href="./zyx/specification/43.png">[43"]</a>
+            <p>windows touch screen:</p>
+            <a href="./zyx/specification/18.5-win.png">[18.5" Intel Core i7]</a><br/><br/>
             <p>Non touch screen:</p>
              <a href="./zyx/specification/non14.png">[14"]</a>&nbsp;&nbsp;&nbsp;
              <a href="./zyx/specification/non15.6.png">[15.6"]</a>
