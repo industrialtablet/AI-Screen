@@ -4,7 +4,7 @@
 <tr>
     <th><a href="./specification/raspberrypi-7-inch.jpg">7 inch</a></th>
     <th><a href="./specification/raspberrypi-10-inch.jpg">10 inch</a></th>
-    <th><a href="./specification/raspberrypi-10-inch.jpg">15 inch CM4</a></th>
+    <th><a href="./specification/15-CM4/README.md">15 inch CM4</a></th>
 </tr>
 <tr>
     <td width="33.33%"><a href="./specification/raspberrypi-7-inch.jpg"><img src="../../../Documents/img/main_p_2.jpg" width="100%" height="auto"/></a></td>
