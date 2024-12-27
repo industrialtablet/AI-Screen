@@ -10,7 +10,7 @@
 <tr>
     <td width="33%"><a href="./zyx/"><img src="./zyx/img/main_p_3.jpg" width="100%" height="auto"/></a></td>
     <td width="73%">
-        <p>touch screen:</p>
+        touch screen (rk3566):<br/>
         <a href="./zyx/specification/10.1.png">[10.1"]</a>&nbsp;&nbsp;&nbsp;
         <a href="./zyx/specification/11.6.png">[11.6"]</a>&nbsp;&nbsp;&nbsp;
          <a href="./zyx/specification/14.png">[14"]</a>&nbsp;&nbsp;&nbsp;
@@ -21,9 +21,15 @@
             <a href="./zyx/specification/27.png">[27"]</a>&nbsp;&nbsp;&nbsp;
             <a href="./zyx/specification/32.png">[32"]</a>&nbsp;&nbsp;&nbsp;
             <a href="./zyx/specification/43.png">[43"]</a>
-            <p>windows touch screen:</p>
-            <a href="./zyx/specification/18.5-win.png">[18.5" Intel Core i7]</a><br/><br/>
-            <p>Non touch screen:</p>
+            <br/>
+              touch screen (rk3588):<br/>
+               <a href="./Tablets-for-Project/spectification/tfp-11.6.png">[11.6"]</a>&nbsp;&nbsp;&nbsp;
+               <br/>
+            windows touch screen:<br/>
+            <a href="./zyx/specification/18.5-win.png">[18.5" Intel Core i7]</a>
+            <br/>
+            Non touch screen:
+            <br/>
              <a href="./zyx/specification/non14.png">[14"]</a>&nbsp;&nbsp;&nbsp;
              <a href="./zyx/specification/non15.6.png">[15.6"]</a>
     </td>
@@ -52,14 +58,6 @@
    
 </tr>
 
-
-<tr>
-    <td width="33%"><a href=""><img src="./Tablets-for-Project/img/tfp.png" width="100%" height="auto"/></a></td>
-    <td width="73%">
-        <a href="./Tablets-for-Project/spectification/tfp-11.6.png">[11.6"]</a>&nbsp;&nbsp;&nbsp;
-    </td>
-   
-</tr>
 <tr>
     <td width="33%"><a href=""><img src="./ds/img/ds.png" width="100%" height="auto"/></a></td>
     <td width="73%">
