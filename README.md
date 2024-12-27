@@ -51,6 +51,13 @@ Proud of our decade-long experience in smart signage and human-machine interacti
   
 </table>
 
+## Wiki
+- [BootLogo Replacement by yourself](https://github.com/industrialtablet/AI-Screen/wiki/BootLogo-Replacement-by-yourself)
+
+## Development
+- [HYY RK3566 Device Android FrameWork API Interface Development Library](https://github.com/hejiangyan/HYY_rk3566_api)
+- [API for Meeting room digital signage instruction Chinese version](./Documents/Applications/api/API_for_Meeting_room_digital_signage_instruction_Chinese_version.pdf)
+
 ### Product Delivery Photos
 <table>
   <tr>
@@ -124,12 +131,6 @@ Proud of our decade-long experience in smart signage and human-machine interacti
     </td>
   </tr>
 </table>
-
-## Wiki
-- [BootLogo Replacement by yourself](https://github.com/industrialtablet/AI-Screen/wiki/BootLogo-Replacement-by-yourself)
-
-## Development
-- [HYY RK3566 Device Android FrameWork API Interface Development Library](https://github.com/hejiangyan/HYY_rk3566_api)
 
 ## Contacts
 

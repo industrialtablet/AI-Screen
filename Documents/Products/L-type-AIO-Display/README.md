@@ -31,6 +31,7 @@
         <a href="./specification/10.1-H-3568-T1.png">[10.1"-H-RK3568-T1]</a>&nbsp;&nbsp;&nbsp;
          <a href="./specification/10.1-H-3566-T2.jpg">[10.1"-H-RK3566-T2]</a>&nbsp;&nbsp;&nbsp;
         <a href="./specification/10.1-H-3568-T2.jpg">[10.1"-H-RK3568-T2]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/10.1-H-3288-w.png">[10.1"-H-RK3288-W]</a>&nbsp;&nbsp;&nbsp;
     </td>
 </tr>
 
@@ -39,6 +40,7 @@
     <td>
         <a href="./specification/10.1-V-3566.jpg">[10.1"-V-RK3566]</a>&nbsp;&nbsp;&nbsp;
         <a href="./specification/10.1-V-3568.jpg">[10.1"-V-RK3568]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/10.1-V-3288-b.png">[10.1"-V-RK3288-b]</a>&nbsp;&nbsp;&nbsp;
     </td>
 </tr>
 
@@ -48,6 +50,7 @@
     <td>
         <a href="./specification/13.3-3566.jpg">[13.3"-RK3566]</a>&nbsp;&nbsp;&nbsp;
         <a href="./specification/13.3-3568.jpg">[13.3"-RK3568]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/13.3-H-3288-b.png">[13.3"-RK3288-b]</a>&nbsp;&nbsp;&nbsp;
     </td>
 </tr>
 
