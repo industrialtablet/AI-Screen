@@ -26,7 +26,7 @@
                <a href="./Tablets-for-Project/spectification/tfp-11.6.png">[11.6"]</a>&nbsp;&nbsp;&nbsp;
                <br/>
                touch screen (rk3576):<br/>
-               <a href="./zyx/specification/14-3576s.png">[14"]</a>&nbsp;&nbsp;&nbsp;
+               <a href="./zyx/specification/14-3576s.png">[14" RK3576s]</a>&nbsp;&nbsp;&nbsp;
                <br/>
             windows touch screen:<br/>
             <a href="./zyx/specification/18.5-win.png">[18.5" Intel Core i7]</a>
