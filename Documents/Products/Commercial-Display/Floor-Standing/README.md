@@ -24,6 +24,16 @@
     </td>
 </tr>
 
+
+<tr>
+    <td><a href=""><img src="./img/mirror_plane.png" width="auto" height="300"/></a></td>
+    <td>
+        <a href="./specification/43_mirror.png">[43"]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/65_mirror.png">[65"]</a>&nbsp;&nbsp;&nbsp;
+    </td>
+</tr>
+
+
 </table>
 
 ## Entity Graph
