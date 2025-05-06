@@ -51,6 +51,8 @@ Proud of our decade-long experience in smart signage and human-machine interacti
   
 </table>
 
+- [Customized Project](./Documents/Products/Customized-Project/)
+
 ## Wiki
 - [BootLogo Replacement by yourself](https://github.com/industrialtablet/AI-Screen/wiki/BootLogo-Replacement-by-yourself)
 
