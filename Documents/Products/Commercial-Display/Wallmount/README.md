@@ -37,6 +37,10 @@
             <br/>
              <a href="./zyx/specification/non14.png">[14"]</a>&nbsp;&nbsp;&nbsp;
              <a href="./zyx/specification/non15.6.png">[15.6"]</a>
+             <br/>
+             MTK with GMS:
+            <br/>
+             <a href="./zyx/specification/15.6_mtk_8788.png">[15.6"]</a>
     </td>
    
 </tr>
