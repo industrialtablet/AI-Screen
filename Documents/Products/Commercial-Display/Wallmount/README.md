@@ -22,6 +22,9 @@
             <a href="./zyx/specification/32.png">[32"]</a>&nbsp;&nbsp;&nbsp;
             <a href="./zyx/specification/43.png">[43"]</a>
             <br/>
+             touch screen (rk3568):<br/>
+               <a href="./zyx/specification/10.1_3568.png">[11.6"]</a>&nbsp;&nbsp;&nbsp;
+               <br/>
               touch screen (rk3588s):<br/>
                <a href="./Tablets-for-Project/spectification/tfp-11.6.png">[11.6"]</a>&nbsp;&nbsp;&nbsp;
                <br/>
