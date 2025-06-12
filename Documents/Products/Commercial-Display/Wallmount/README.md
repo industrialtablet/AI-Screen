@@ -34,7 +34,8 @@
               &nbsp;&nbsp;&nbsp;
                <br/>
             windows touch screen:<br/>
-            <a href="./zyx/specification/18.5-win.png">[18.5" Intel Core i7]</a>
+            <a href="./zyx/specification/18.5-win.png">[18.5" Intel Core i7]</a>&nbsp;&nbsp;&nbsp;
+            <a href="./zyx/specification/15-i5.png">[15" Intel Core i5]</a>&nbsp;&nbsp;&nbsp;
             <br/>
             Non touch screen:
             <br/>
