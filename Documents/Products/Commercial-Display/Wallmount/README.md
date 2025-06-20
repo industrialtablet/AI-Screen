@@ -35,6 +35,7 @@
                <br/>
             windows touch screen:<br/>
             <a href="./zyx/specification/18.5-win.png">[18.5" Intel Core i7]</a>&nbsp;&nbsp;&nbsp;
+            <a href="./zyx/specification/18.5-win-i7-s.png">[18.5" Intel Core i7 T2]</a>&nbsp;&nbsp;&nbsp;
             <a href="./zyx/specification/15-i5.png">[15" Intel Core i5]</a>&nbsp;&nbsp;&nbsp;
             <a href="./zyx/specification/21.5_win_i7.png">[21.5" Intel Core i7]</a>&nbsp;&nbsp;&nbsp;
             <a href="./zyx/specification/21.5_win_i5.png">[21.5" Intel Core i5]</a>&nbsp;&nbsp;&nbsp;
@@ -99,5 +100,5 @@
 - Website: www.we-signage.com
 - https://we-signage.en.made-in-china.com/
 - E-mail: dennis@we-signage.com
-- MP/Whatsapp/Wechat: + 86 13349909990
-- Skype: solled686
+- Wechat: + 86 13349909990
+- MP/Whatsapp:+86 17388781631
