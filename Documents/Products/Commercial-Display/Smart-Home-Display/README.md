@@ -15,12 +15,14 @@
     </td>
 </tr>
 <tr>
-    <td ><a href=""><img src="./img/32-1.jpg" width="250" height="auto"/><img src="./img/32-2.jpg" width="250" height="auto"/></a></td>
+    <td ><a href=""><img src="./img/32.png" width="300" height="auto"/></a></td>
     <td width="30%">
         <a href="./specification/24-3399.jpg">[24"-RK3399]</a>&nbsp;&nbsp;&nbsp;
         <a href="./specification/24-3588.jpg">[24"-RK3588]</a>&nbsp;&nbsp;&nbsp;
         <a href="./specification/32-3399.jpg">[32"-RK3399]</a>&nbsp;&nbsp;&nbsp;
         <a href="./specification/32-3588.jpg">[32"-RK3588]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/32-3588s2.png">[32"-RK3588s2]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/32-3576s">[32"-RK3576s]</a>&nbsp;&nbsp;&nbsp;
     </td>
 </tr>
 
