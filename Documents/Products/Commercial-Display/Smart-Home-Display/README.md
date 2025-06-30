@@ -22,7 +22,7 @@
         <a href="./specification/32-3399.jpg">[32"-RK3399]</a>&nbsp;&nbsp;&nbsp;
         <a href="./specification/32-3588.jpg">[32"-RK3588]</a>&nbsp;&nbsp;&nbsp;
         <a href="./specification/32-3588s2.png">[32"-RK3588s2]</a>&nbsp;&nbsp;&nbsp;
-        <a href="./specification/32-3576s">[32"-RK3576s]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/32-3576s.png">[32"-RK3576s]</a>&nbsp;&nbsp;&nbsp;
     </td>
 </tr>
 
