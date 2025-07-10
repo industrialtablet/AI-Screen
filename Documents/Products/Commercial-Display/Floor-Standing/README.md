@@ -33,6 +33,13 @@
     </td>
 </tr>
 
+<tr>
+    <td><a href=""><img src="./img/q-32.png" width="auto" height="300"/></a></td>
+    <td>
+        <a href="./specification/q-32.png">[32"]</a>&nbsp;&nbsp;&nbsp;
+    </td>
+</tr>
+
 
 </table>
 
