@@ -17,7 +17,7 @@
      <td width="20%"><a href="./3576-box/specification/3576-box.png"><img src="./img/3576-box.jpg" width="300" height="auto"/></a></td>
 </tr>
 <tr>
-    <th><a href="./tv-box/specification/HK1-HBX.png">HK1-HBX</a></th>
+    <th><a href="./tv-box/specification/HK1-HBX.png">HK1-H8X</a></th>
 </tr>
 <tr>
     <td width="20%"><a href="./tv-box/specification/HK1-HBX.png"><img src="./tv-box/img/HK1-HBX.png" width="300" height="auto"/></a></td>
