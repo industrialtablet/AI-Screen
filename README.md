@@ -55,6 +55,7 @@ Proud of our decade-long experience in smart signage and human-machine interacti
 
 ## Wiki
 - [BootLogo Replacement by yourself](https://github.com/industrialtablet/AI-Screen/wiki/BootLogo-Replacement-by-yourself)
+- [How to Manage Display Devices -HYY MDM Solutions](./Documents/wiki/img-replace-logo/MDM.pdf)
   
 ## [FQA](./Documents/FQA/README.md)
 
