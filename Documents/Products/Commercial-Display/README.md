@@ -4,7 +4,7 @@
 <table textalign="center">
 <tr>
     <th><a href="./Wallmount/">Wallmount</a></th>
-    <th><a href="./Smart-Home-Table/">Smart Home Table</a></th>
+    <th><a href="./Smart-Home-Table/">Smart Home Tablet</a></th>
     <th><a href="./Floor-Standing/">Floor Standing</a></th>
     
 </tr>

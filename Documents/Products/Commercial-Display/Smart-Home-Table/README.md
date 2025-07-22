@@ -1,4 +1,4 @@
-# Smart Home Table
+# Smart Home Tablet
 
 
 <table textalign="center">
