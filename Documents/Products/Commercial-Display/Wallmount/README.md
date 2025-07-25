@@ -92,6 +92,13 @@
     </td>
    
 </tr>
+<tr>
+    <td width="33%"><a href=""><img src="./v53/img/17v53.png" width="auto" height="auto"/></a></td>
+    <td width="73%">
+        <a href="./v53/spectification/17.png">[17"]</a>&nbsp;&nbsp;&nbsp;
+    </td>
+   
+</tr>
 
 </table>
 
