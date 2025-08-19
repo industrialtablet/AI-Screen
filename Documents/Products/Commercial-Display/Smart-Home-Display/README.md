@@ -12,6 +12,7 @@
     <td >
         <a href="./specification/21.5-3399.png">[21.5"-RK3399]</a>&nbsp;&nbsp;&nbsp;
         <a href="./specification/21.5-3588.png">[21.5"-RK3588]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/21.5-3576s.png">[21.5"-RK3576s]</a>&nbsp;&nbsp;&nbsp;
     </td>
 </tr>
 <tr>
