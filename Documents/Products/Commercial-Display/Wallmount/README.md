@@ -43,6 +43,7 @@
             <br/>
             Non touch screen:
             <br/>
+            <a href="./zyx/specification/Non-10.1.pdf">[10.1"]</a>&nbsp;&nbsp;&nbsp;
              <a href="./zyx/specification/non14.png">[14"]</a>&nbsp;&nbsp;&nbsp;
              <a href="./zyx/specification/non15.6.png">[15.6"]</a>
              <br/>

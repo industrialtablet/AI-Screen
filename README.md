@@ -56,8 +56,8 @@ Proud of our decade-long experience in smart signage and human-machine interacti
 ## Wiki
 - [BootLogo Replacement by yourself](https://github.com/industrialtablet/AI-Screen/wiki/BootLogo-Replacement-by-yourself)
 - [How to Manage Display Devices -HYY MDM Solutions](./Documents/wiki/img-replace-logo/MDM.pdf)
+- [remote  control display](./Documents/wiki/other/remote%20%20control%20display-9.5.pdf)
   
-## [FQA](./Documents/FQA/README.md)
 
 ## Development
 - [HYY RK3566 Device Android FrameWork API Interface Development Library](https://github.com/hejiangyan/HYY_rk3566_api)
