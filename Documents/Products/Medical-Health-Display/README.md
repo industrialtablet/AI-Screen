@@ -10,21 +10,21 @@
 <tr>
     <td ><a href=""><img src="./img/10.1-1.jpg" width="250" height="auto"/><img src="./img/10.1-2.jpg" width="250" height="auto"/></a></td>
     <td >
-        <a href="./specification/10.1.jpg">[10.1]</a>
+        <a href="./specification/10.1.png">[10.1]</a>
     </td>
 </tr>
 
 <tr>
     <td ><a href=""><img src="./img/13.3.jpg" width="500" height="auto"/></a></td>
     <td >
-        <a href="./specification/13.3.jpg">[13.3]</a>
+        <a href="./specification/13.3.png">[13.3]</a>
     </td>
 </tr>
 
 <tr>
     <td ><a href=""><img src="./img/15.6-1.jpg" width="250" height="auto"/><img src="./img/15.6-2.jpg" width="250" height="auto"/></a></td>
     <td >
-        <a href="./specification/15.6.jpg">[15.6]</a>
+        <a href="./specification/15.6.png">[15.6]</a>
     </td>
 </tr>
 </table>
