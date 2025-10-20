@@ -2,9 +2,16 @@
 <table textalign="center">
 
 <tr>
-    <td><a href="./specification/15.6inch display with customized Metal case design for the library.pdf"><img src="./img/15.6-table-4G.png" width="300" height="auto"/></a></td>
+    <td><a href="./specification/15.6inch display with customized Metal case design for the library.pdf"><img src="./img/15.6-table-4G.png" width="500" height="auto"/></a></td>
     <td>
         <a href="./specification/15.6inch display with customized Metal case design for the library.pdf">Metal Case for 15.6inch tablet with 4G</a>&nbsp;&nbsp;&nbsp;
+    </td>
+</tr>
+<tr>
+    <td><a href="https://youtube.com/shorts/ltiwYZQOzBw?feature=share"><img src="./img/cpx.png" width="500" height="auto"/></a></td>
+    <td>
+        <a href="https://youtube.com/shorts/ltiwYZQOzBw?feature=share">Circuit Playground Express is the ideal board for getting started in electronics andprogramming related to e-textiles.
+It can be programmed in three different ways, from visual block programming to textualprogramming with code (JavaScript, Pvthon, or Arduino)</a>&nbsp;&nbsp;&nbsp;
     </td>
 </tr>
 </table>

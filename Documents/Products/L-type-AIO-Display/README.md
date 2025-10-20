@@ -62,6 +62,15 @@
     </td>
 </tr>
 
+<>
+<tr>
+    <td ><a href=""><img src="./img/15.6-V-1.png" width="auto" height="280"/><img src="./img/15.6-V-2.png" width="auto" height="280"/></a></td>
+    <td>
+        <a href="./specification/15.6-V-3576s.png">[15.6"-RK3576s T1]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/15.6-V-3576s-2.png">[15.6"-RK3576s T2]</a>&nbsp;&nbsp;&nbsp;
+    </td>
+</tr>
+
 <tr>
     <td ><a href=""><img src="./img/17-1.jpg" width="250" height="auto"/><img src="./img/17-2.jpg" width="250" height="auto"/></a></td>
     <td>
