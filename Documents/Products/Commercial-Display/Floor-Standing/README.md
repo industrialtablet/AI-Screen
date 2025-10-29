@@ -18,7 +18,7 @@
     <td><a href=""><img src="./img/v-49.jpg" width="auto" height="300"/></a></td>
     <td>
         <a href="./specification/43inch.jpg">[43"]</a>&nbsp;&nbsp;&nbsp;
-        [49]&nbsp;&nbsp;&nbsp;
+        <a href="./specification/49.png">[49"]</a>&nbsp;&nbsp;&nbsp;
         <a href="./specification/55inch.jpg">[55"]</a>&nbsp;&nbsp;&nbsp;
         [65]&nbsp;&nbsp;&nbsp;
     </td>
