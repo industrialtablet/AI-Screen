@@ -9,6 +9,20 @@
 </tr>
 
 <tr>
+    <td ><a href=""><img src="./img/10.95-h-3576s-1.webp" width="250" height="auto"/><img src="./img/10.95-h-3576s-2.webp" width="250" height="auto"/></a></td>
+    <td width="40%">
+        <a href="./specification/10.95-H-3576s.png">[10.95"-H-RK3576s]</a>&nbsp;&nbsp;&nbsp;
+    </td>
+</tr>
+
+<tr>
+    <td ><a href=""><img src="./img/10.95-v-3576s-1.webp" width="auto" height="280"/><img src="./img/10.95-v-3576s-2.webp" width="auto" height="280"/></a></td>
+    <td>
+        <a href="./specification/10.95-V-3576s.png">[10.95"-V-RK3576s]</a>&nbsp;&nbsp;&nbsp;
+    </td>
+</tr>
+
+<tr>
     <td ><a href=""><img src="./img/8-H-1.jpg" width="250" height="auto"/><img src="./img/8-H-2.jpg" width="250" height="auto"/></a></td>
     <td width="40%">
         <a href="./specification/8-H-3566.jpg">[8"-H-RK3566]</a>&nbsp;&nbsp;&nbsp;
