@@ -1,4 +1,4 @@
-# Meeting Room RGB LED tablet Android 13 and NFC/RFID black Metal case
+# Meeting Room RGB LED tablet Android 13/14 and NFC/RFID black Metal case
 
 
 <table textalign="center">
@@ -7,6 +7,31 @@
     <th><a href="">Screen size</a></th>
     
 </tr>
+
+<tr>
+    <td ><a href=""><img src="./img/new-3576-10.95-2.png" width="600" height="auto"/></a></td>
+    <td>
+        <a href="./specification/3576-10.95-2.png">[10.95"-RK3576s]</a>&nbsp;&nbsp;&nbsp;
+    </td>
+</tr>
+
+<tr>
+    <td ><a href=""><img src="./img/new-3576-10.95-1.png" width="600" height="auto"/></a></td>
+    <td>
+        <a href="./specification/3576-10.95-1.png">[10.95"-RK3576s]</a>&nbsp;&nbsp;&nbsp;
+    </td>
+</tr>
+
+<tr>
+    <td ><a href=""><img src="./img/new-3576-1.png" width="600" height="auto"/></a></td>
+    <td>
+        <a href="./specification/3576-23.8.png">[23.8"-RK3576s]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/3576-27.png">[27"-RK3576s]</a>&nbsp;&nbsp;&nbsp;
+        <a href="./specification/3576-32.png">[32"-RK3576s]</a>&nbsp;&nbsp;&nbsp;
+    </td>
+</tr>
+
+
 <tr>
     <td ><a href=""><img src="./img/1.jpg" width="300" height="auto"/><img src="./img/2.jpg" width="300" height="auto"/></a></td>
     <td>
