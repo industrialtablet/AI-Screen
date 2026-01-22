@@ -16,7 +16,7 @@
 </tr>
 
 <tr>
-    <td ><a href=""><img src="./img/10.95-v-3576s-1.webp" width="auto" height="280"/><img src="./img/10.95-v-3576s-2.webp" width="auto" height="280"/></a></td>
+    <td ><a href=""><img src="./img/10.95-v-3576s-1.webp" width="auto" height="240"/><img src="./img/10.95-v-3576s-2.webp" width="auto" height="240"/></a></td>
     <td>
         <a href="./specification/10.95-V-3576s.png">[10.95"-V-RK3576s]</a>&nbsp;&nbsp;&nbsp;
     </td>
