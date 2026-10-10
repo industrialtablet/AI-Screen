@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.we-signage.com"><img src="./Documents/brand/hero.png" width="100%" alt="AI Screen by HYY — Hardware for connected experiences. Digital signage, touch interaction and edge computing for Android, Windows and Linux."></a>
+  <a href="https://www.eellnet.com"><img src="./Documents/brand/hero.png" width="100%" alt="AI Screen by HYY — Hardware for connected experiences. Digital signage, touch interaction and edge computing for Android, Windows and Linux."></a>
 </p>
 
 <p align="center">
@@ -20,10 +20,6 @@
   <a href="#resources">DEVELOPER RESOURCES</a> &nbsp; / &nbsp;
   <a href="#deliveries">DELIVERIES</a> &nbsp; / &nbsp;
   <a href="#contact">CONTACT</a>
-</p>
-
-<p align="center">
-  <img src="./Documents/brand/platform.png" width="100%" alt="Over 10 years in digital signage. Three operating system families: Android, Windows and Linux. Six core product families.">
 </p>
 
 <a name="products"></a>

@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.we-signage.com"><img src="./Documents/brand/hero-zh.png" width="100%" alt="AI Screen / HYY — 智能硬件，连接每一种交互体验。面向 Android、Windows 和 Linux 的数字标牌、触控交互与边缘计算设备。"></a>
+  <a href="https://www.eellnet.com"><img src="./Documents/brand/hero-zh.png" width="100%" alt="AI Screen / HYY — 智能硬件，连接每一种交互体验。面向 Android、Windows 和 Linux 的数字标牌、触控交互与边缘计算设备。"></a>
 </p>
 
 <p align="center">
@@ -20,10 +20,6 @@
   <a href="#resources">开发资源</a> &nbsp; / &nbsp;
   <a href="#deliveries">交付展示</a> &nbsp; / &nbsp;
   <a href="#contact">联系我们</a>
-</p>
-
-<p align="center">
-  <img src="./Documents/brand/platform-zh.png" width="100%" alt="深耕数字标牌行业超过 10 年；支持 Android、Windows 和 Linux 三类系统平台；覆盖六大核心产品系列。">
 </p>
 
 <a name="products"></a>
