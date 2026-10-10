@@ -139,7 +139,8 @@ Proud of our decade-long experience in smart signage and human-machine interacti
 
 ## Contacts
 
-- Website: www.we-signage.com
+- Website: www.eellnet.com
+- https://www.hyysz.com
 - https://we-signage.en.made-in-china.com/
 - E-mail: dennis@we-signage.com
 - Wechat: + 86 13349909990
