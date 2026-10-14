@@ -1,15 +1,15 @@
-# [NX witness Server](./specification/nas-3588.jpg)
+# [NX witness Server](./specification/nas-3588.webp)
 
 
 <table textalign="center">
     <tr>
         <td width="33.33%">
-            <a href="./specification/nas-3588.jpg">
+            <a href="./specification/nas-3588.webp">
             <img src="./img/nas-1.jpg"/>
             </a>
         </td>
         <td width="30%">
-            <a href="./specification/nas-3588.jpg">
+            <a href="./specification/nas-3588.webp">
              <img src="./img/nas-2.jpg"/>
             </a>
         </td>
